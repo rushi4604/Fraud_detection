@@ -38,8 +38,7 @@ Fraud detection is a critical real-world problem in banking and financial system
   - Matplotlib
   - Seaborn
   - Scikit-learn
-  - SciPy
-  - 
+  
 # Project Workflow
 1. Import required libraries  
 2. Load and inspect the dataset  
